@@ -5,11 +5,9 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ## Table of contents
 
 - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## The challenge
@@ -37,6 +35,6 @@ Users should be able to:
 ## Author
 
 - Website - [Yohan](https://yohanetifier.github.io/stats-preview-card-component/)
-- Frontend Mentor - [@yohanetifier](https://www.frontendmentor.io/profile/yohanetifier)
-- Twitter - [@yohanwebdev](https://www.twitter.com/yohanwebdev)
+- Frontend Mentor - [yohanetifier](https://www.frontendmentor.io/profile/yohanetifier)
+- Twitter - [yohanwebdev](https://www.twitter.com/yohanwebdev)
 
