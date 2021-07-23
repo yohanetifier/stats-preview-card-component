@@ -36,7 +36,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Yohan](https://www.your-site.com)
+- Website - [Yohan](https://yohanetifier.github.io/stats-preview-card-component/)
 - Frontend Mentor - [@yohanetifier](https://www.frontendmentor.io/profile/yohanetifier)
 - Twitter - [@yohanwebdev](https://www.twitter.com/yohanwebdev)
 
